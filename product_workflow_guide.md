@@ -65,7 +65,7 @@ on:
 jobs:
   test:
     runs-on: ubuntu-latest
-    steps:
+    steps:ion
       - uses: actions/checkout@v4
         
       # your test steps here
